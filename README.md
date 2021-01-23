@@ -7,9 +7,9 @@
 ## Table of Contents
 * [Description](#description)
 
-* [Screenshots](#screenshots)
-
 * [Deployed App](#deployed-app)
+
+* [Screenshots](#screenshots)
 
 * [Installation](#installation)
 
