@@ -35,7 +35,7 @@ Clone repo, npm install, npm start
 
 OR
 
-Run deployed app
+Run deployed app: https://grahamelphick.github.io/employee_directory/
 
 ## License
 This application is covered under the MIT license.
