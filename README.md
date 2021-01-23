@@ -15,6 +15,8 @@
 
 * [Usage](#usage)
 
+* [License](#license)
+
 * [Questions](#questions)
 
 ## Description
@@ -42,5 +44,3 @@ This application is covered under the MIT license.
 
 ## Questions
 My GitHub: https://github.com/grahamelphick
-
-If you have any further questions, you can reach me at: 
