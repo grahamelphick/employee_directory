@@ -20,12 +20,12 @@
 ## Description
 This application was built using react and allows the user to search their employee database. For the purposes of this app, a random generation of employees has been used.
 
+## Deployed App
+https://grahamelphick.github.io/employee_directory/
+
 ## Screenshots
 <img src="./employee_directory/screenshots/home-page.png" alt="Home Page">
 <img src="./employee_directory/screenshots/search-page.png" alt="Search Page">
-
-## Deployed App
-https://grahamelphick.github.io/employee_directory/
 
 ## Installation
 npm install
